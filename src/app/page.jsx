@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <div className={styles.textContainer}>
-        <h1 className={styles.title}>Cretive Thought Agency</h1>
+        <h1 className={styles.title}>Creative Thought Agency</h1>
         <p className={styles.desc}>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia esse labore fugit rem, rerum natus?
         </p>
